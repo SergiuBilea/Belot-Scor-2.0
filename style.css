@@ -1,0 +1,30 @@
+.jucator, .jucator2, .jucator3, .jucator4{
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+    height: 100%;
+    margin-right: 8px;
+    text-align: center;
+
+}
+
+.numele{
+    background-color: deepskyblue;
+    margin-bottom: 5px;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+.total1, .total2, .total3, .total4{
+    background-color: greenyellow;
+    margin-bottom: 5px;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+.listaJucatori{
+    display: flex;
+}
+
+.bile1, .bile2, .bile3, .bile4{
+    text-align: center;
+}
